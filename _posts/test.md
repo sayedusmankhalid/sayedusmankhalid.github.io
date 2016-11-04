@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: All Posts
+layout: post
+title: Test Post
 excerpt: "This is a test blog"
 comments: false
 ---
