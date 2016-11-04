@@ -1,6 +1,7 @@
 ---
 layout: post-list
 title: All Posts
-excerpt: "A List of Posts"
+excerpt: "This is a test blog"
 comments: false
 ---
+this is my test blog.. 
