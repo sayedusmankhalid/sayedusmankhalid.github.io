@@ -5,8 +5,20 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-![Unclean shutdown detected](//sayedusmankhalid.github.io/assets/img/logo.png)
-**I am a junior, majoring in Computer Science at the University of Mary Washington.**
-**Basically, I belong to Pakistan and  have joined this college as a transfer student. Transferring from Mehran University of Engineering and Technology, Pakistan  to University of Mary Washington, USA has been quite an exciting and challenging journey for me.**
-**So far I have learnt C++, JAVA , Python , Flask and some other languages.**
-**In this blog, I will outline some of the  cool things I learnt in the class of CPSC 350(Applications of databases)**
+![Unclean shutdown detected](//sayedusmankhalid.github.io/assets/img/usman.png)
+**About Me** 
+My name is Sayed Usman Khalid. I'm Graduating in December 2016 with a bachelor in Computer Science and Minor in Business Administration. I acquired the following skills throughout my undergraduate degree: 
+ - Java
+ - C++
+ - Python
+ - PostGreqSQL
+ - HTML5
+ - Bootstrap
+ - JavaScript
+ - Socket IO
+
+
+----------
+
+
+ I am Professional, Self-motivated, creative thinker, detail-oriented, and have excellent time management skills. I love to play billiard, and take part in an Intellectual conversations. 
