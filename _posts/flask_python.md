@@ -1,7 +1,7 @@
 ---
 layout: post-list
 title: Flask Intro
-excerpt: "**How To Use Flask App in Python**"
+excerpt: "How To Use Flask App in Python"
 comments: false
 ---
 
