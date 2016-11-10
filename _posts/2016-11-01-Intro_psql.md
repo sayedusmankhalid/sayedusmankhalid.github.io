@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro To PostGreqSQL
+title: Intro To PostgreSQL
 excerpt: "Intro-to postgresql"
 comments: false
 ---
