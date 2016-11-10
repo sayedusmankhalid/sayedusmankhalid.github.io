@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: post
 title: Flask Intro
 excerpt: "How To Use Flask App in Python"
 comments: false
