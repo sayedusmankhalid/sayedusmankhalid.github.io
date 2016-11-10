@@ -1,7 +1,7 @@
 ---
-layout: post-list
+layout: post
 title: Intro To PostGreqSQL
-excerpt: ""
+excerpt: "Intro-to postgresql"
 comments: false
 ---
 
