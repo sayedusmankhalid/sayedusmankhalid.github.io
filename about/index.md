@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-![Unclean shutdown detected](//sayedusmankhalid.github.io/assets/img/usman.jgp)
+![Unclean shutdown detected](//sayedusmankhalid.github.io/assets/img/usman.png)
 **About Me** 
 My name is Sayed Usman Khalid. I'm Graduating in December 2016 with a bachelor in Computer Science and Minor in Business Administration. I acquired the following skills throughout my undergraduate degree: 
  - Java
