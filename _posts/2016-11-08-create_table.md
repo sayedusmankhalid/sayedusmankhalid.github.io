@@ -52,7 +52,7 @@ Another thing to keep in mind is that we do not enter a value for the student_id
  We can then get back the information we've added by typing:
 
      student_id	| first_name | last_name  | address
-    1	                 John             Snow       	 abc street
+     1	          John         Snow         abc street
 
 Here, you can see that our student_id has been filled in successfully and that all of our other data has been organized correctly.
 
