@@ -6,6 +6,7 @@ comments: false
 ---
 
 **Create, Insert, Select, Delete in Postgresql**
+
 To Create table in the Postgresql you follow the basic syntax shown below:
 
     CREATE TABLE table_name (
