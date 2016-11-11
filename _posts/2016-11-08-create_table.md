@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flask Intro
-excerpt: "Basic Postgresql Functionality"
+title: Basic Postgresql Functionality
+excerpt: "Create, Insert, Select, Delete"
 comments: false
 ---
 
