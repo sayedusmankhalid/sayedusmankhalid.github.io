@@ -4,11 +4,11 @@ title: Connecting Postgresql
 excerpt: "Connect to Postgresql using Python"
 comments: false
 ---
-
 **Connect to Postgresql using Python**
 First thing is to install psycopg2 module by typing the following command: 
 
     sudo apt-get install python-psycopg2
+
 Next open a python file and and use the following code:
 
     import psycopg2
