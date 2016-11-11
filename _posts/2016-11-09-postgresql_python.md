@@ -15,15 +15,21 @@ Next open a python file and and use the following code:
     import psycopg2.extras
     import os
     
-    def db_connect():
-        print 'connection to the db_connect'
-        connectionString='dbname=ecom user=usman password=somePassword host=localhost'
-        try:
-            print 'are we trying'
-            return psycopg2.connect(connectionString)
-        except:
-            print 'cannot connect to the database'
+  
+
+      def db_connect():
+            print 'connection to the db_connect'
+            connectionString='dbname=ecom user=usman password=somePassword host=localhost'
+            try:
+                print 'are we trying'
+                return psycopg2.connect(connectionString)
+            except:
+                print 'cannot connect to the database'
+
+
+
 You can easily connect to the Postgresql in python by importing the psycopg2 module, and writing a db_connect() function. As you can see, first, we made the connectionString and provided the dbname = databaseName, user= username, password = password, host= url. 
+
 Second, we try to make the connection using psycopg2.connect(connectionString) by passing the connectingString that we made in the first step. If it connects it will return us the connection to the database, otherwise if will go in the except statement and notify the user that it could not connect to the database. 
 
 Once we are connected to the database, we can easily fetch the information using the following code: 
