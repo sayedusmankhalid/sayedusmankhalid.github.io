@@ -1,6 +1,6 @@
 # Site
 title:              Usman's Blog
-bio:                'Intro to some of the Computer Science Concepts'
+bio:                'Intro to Postgresql and Flask'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
